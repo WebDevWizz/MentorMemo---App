@@ -1,4 +1,4 @@
-# MentorMemo--App
+# MentorMemo App
 MentorMemo helps mentors to remain organized and to track their students.
 
 This app can help some types of teachers/mentors who want to remember their students (possibly organized in teams) by providing a list and detailed information about them. 
